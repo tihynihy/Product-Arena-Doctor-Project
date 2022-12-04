@@ -7,14 +7,14 @@
 
 #Important
 The email and passwords for the login in the app are the following:
-#'tech387@gmail.com'
-##Password:'12345'
+#tech387@gmail.com
+##Password:12345
 
-#'product-arena@gmail.com'
-##Password: 'nihad'
+#product-arena@gmail.com
+##Password: nihad
 
-#'sarajevo387@gmail.com' 
-##Password:'flutter'
+#sarajevo387@gmail.com
+##Password:flutter
 
-#'internship@gmail.com' 
-##Password:'signmeup'
+#internship@gmail.com
+##Password:signmeup
