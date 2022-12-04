@@ -1,17 +1,17 @@
 # product_arena_x_tech_387
 
-##Internship Project
+## Internship Project
 
-###Designed by Nihad Jusovic
+### Designed by Nihad Jusovic
 4/12/2022
 
-#Important
+# Important
 The email and passwords for the login in the app are the following:
 tech387@gmail.com
 Password:12345
 
 product-arena@gmail.com
-##Password: nihad
+## Password: nihad
 
 sarajevo387@gmail.com
 Password:flutter
