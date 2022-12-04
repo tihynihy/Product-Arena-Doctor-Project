@@ -1,3 +1,10 @@
+//Note: Check out the input fields and its behaviors when you:
+//Enter a wrong password, email or left everything blank
+//Google and Phone login I did not finished
+//Reason: Google API Integration errors and time waste
+//Google and Phone Authentication buttons just send you to the Main Page screen
+
+
 import 'package:flutter/material.dart';
 import 'package:flutter_login/flutter_login.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

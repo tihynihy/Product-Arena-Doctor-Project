@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:product_arena_x_tech_387/login_page.dart';
 import 'package:sticky_grouped_list/sticky_grouped_list.dart';
 
+//Dummy database for the project testing part
+
 
 List<Element> _elements = <Element>[
   Element(DateTime(2020, 6, 24, 18), 'Alen K.', Icons.boy),
