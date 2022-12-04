@@ -11,6 +11,9 @@
 # Important
 The email and passwords for the login in the app are the following:
 
+## career@tech387.com
+## Pass123!
+
 ## tech387@gmail.com
 ## Password: 12345
 
