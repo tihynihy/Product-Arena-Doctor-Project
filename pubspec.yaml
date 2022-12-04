@@ -43,6 +43,7 @@ dependencies:
   sticky_grouped_list: ^3.1.0
   awesome_dialog: ^3.0.2
   flutter_exit_app: ^1.0.5
+  profile: ^0.0.1
 
 dev_dependencies:
   flutter_test:

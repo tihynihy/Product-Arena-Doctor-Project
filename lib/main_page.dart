@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:product_arena_x_tech_387/login_page.dart';
 import 'package:sticky_grouped_list/sticky_grouped_list.dart';
 
+import 'doctor_profile_page.dart';
+
 //Dummy database for the project testing part
 
 
@@ -29,7 +31,6 @@ class MainPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -40,7 +41,13 @@ class MainPage extends StatelessWidget {
           title: Row(
             children: [
               Image.network('https://user-images.githubusercontent.com/76163793/205487416-8f77bc0a-d98f-4ac6-8274-70cb5546a52c.png'),
-             SizedBox(width: 110,),
+             SizedBox(width: 50,),
+             TextButton.icon(onPressed: (){
+               Navigator.push(
+                 context,
+                 MaterialPageRoute(builder: (context) => UserProfile()),
+               );
+             }, icon: Icon(Icons.person), label: Text('')),
              TextButton.icon(onPressed: (){
                Navigator.of(context).pushReplacement(MaterialPageRoute(
                  builder: (context) => AlertDialog(
