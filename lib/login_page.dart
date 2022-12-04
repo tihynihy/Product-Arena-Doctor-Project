@@ -16,6 +16,7 @@ const users = const {
   'product-arena@gmail.com': 'nihad',
   'sarajevo387@gmail.com': 'flutter',
   'internship@gmail.com': 'signmeup',
+  'career@tech387.com': 'Pass123!',
 };
 
 class LoginScreen extends StatelessWidget {
